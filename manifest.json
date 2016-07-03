@@ -47,8 +47,7 @@
                     "en": "Is it a public site ?",
                     "fr": "Est-ce un site public ?"
                 },
-                "choices": ["Yes", "No"],
-                "default": "Yes"
+                "default": true
             }
         ]
     }
